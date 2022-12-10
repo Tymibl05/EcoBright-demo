@@ -1,4 +1,4 @@
-# Music Player App
+# Cleaning Service Page
 
 This project was created by [Tyler Blease](https://www.linkedin.com/in/tyler-blease/).
 
